@@ -1,0 +1,33 @@
+{"news":[
+    { 
+        "newsId":"1", 
+        "subject":"Wather",
+        "newsTitle":"The Wather today",
+        "newText":"Today, the weather is a pleasant 24 degrees Celsius. The sun is shining brightly in the clear blue sky, casting a warm and inviting glow over the landscape. It's the perfect day to enjoy outdoor activities, whether it's a leisurely walk in the park, a picnic with friends, or simply basking in the gentle, comfortable warmth of the day. Make the most of this beautiful weather while it lasts!",
+        "datePostNews": {"arrivalToTheSystem":{"date":"21/10/2023",
+                                               "time":"8:30"},
+                        "arrivalToTheNews":{"date":"21/10/2023",
+                                            "time":"8:40"}}
+     },
+     { 
+        "newsId":"2", 
+        "subject":"Music",
+        "newsTitle":"New song of Meir Green",
+        "newText":"A new song from the 'Thank You Hashem' project in the shadow of the 'Iron Swords' operation. The singer Meir Green presents a string of songs that the soldiers love and dance to at the bases these days, accompanied by DJ Farbareng. The arrangement and musical production of Izzy Driham",
+        "datePostNews": {"arrivalToTheSystem":{"date":"21/10/2023",
+                                               "time":"9:15"},
+                         "arrivalToTheNews":{"date":"21/10/2023",
+                                               "time":"9:30"}}
+     },
+
+    { 
+        "newsId":"3", 
+        "subject":"Health",
+        "newsTitle":"Should we drink water",
+        "newText":"Water is essential for the well-being of our bodies and is often referred to as the elixir of life. It plays a fundamental role in maintaining good health. Every system in our body depends on water, from regulating body temperature and aiding digestion to transporting nutrients and oxygen to cells. Staying adequately hydrated is crucial for cognitive function, energy levels, and overall physical performance. It also helps flush out toxins and waste products from the body, supports healthy skin, and aids in weight management. It's vital to remember that our bodies constantly lose water through various processes, so replenishing it by drinking an adequate amount of water throughout the day is essential for optimal health and well-being." ,
+        "datePostNews": {"arrivalToTheSystem":{"date":"21/10/2023",
+                                               "time":"9:30"},
+                          "arrivalToTheNews":{"date":"21/10/2023",
+                                              "time":"9:40"}}
+     }
+  ]}

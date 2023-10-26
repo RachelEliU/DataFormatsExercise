@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chabaddata>
+  <person >
+    <name>
+      <firstname >Isreal 
+      </firstname>
+      <lastname>Levi
+      </lastname>
+    </name>
+    <age>42
+    </age>
+    <address>
+      <contry>Georgia
+      </contry>
+      <city>Batumi
+      </city>
+      <street>Vakhtang Gorgasali
+      </street>
+      <housenumber>10
+      </housenumber>
+    </address>
+    <family>
+      <relative>
+        <name>
+          <firstname>Sara
+          </firstname>
+          <lastname>Levi
+          </lastname>
+        </name>
+        <age>40
+        </age>
+        <address>
+          <contry>Georgia
+          </contry>
+          <city>Batumi
+          </city>
+          <street>Vakhtang Gorgasali
+          </street>
+          <housenumber>10
+          </housenumber>
+        </address>
+        <relativetype>Wife
+        </relativetype>
+        <phonenumber>05087354267
+        </phonenumber>
+        <phonenumber>025364789
+        </phonenumber>
+        <phonenumber>0523746542
+        </phonenumber>
+      </relative>
+      <relative>
+        <name>
+          <firstname>Rivka
+          </firstname>
+          <lastname>Levi
+          </lastname>
+        </name>
+        <age>30
+        </age>
+        <address>
+          <contry>Georgia
+          </contry>
+          <city>Batumi
+          </city>
+          <street>Vakhtang Gorgasali
+          </street>
+          <housenumber>10
+          </housenumber>
+        </address>
+        <relativetype>Daughter
+        </relativetype>
+        <phonenumber>0567354261
+        </phonenumber>
+        <phonenumber>025637846
+        </phonenumber>
+      </relative>
+      <relative>
+        <name>
+          <firstname>Leah
+          </firstname>
+          <lastname>Levi
+          </lastname>
+        </name>
+        <age>16
+        </age>
+        <address>
+          <contry>Georgia
+          </contry>
+          <city>Batumi
+          </city>
+          <street>Vakhtang Gorgasali
+          </street>
+          <housenumber>10
+          </housenumber>
+        </address>
+        <relativetype>Daughter
+        </relativetype>
+        <phonenumber>0475634562
+        </phonenumber>
+        <phonenumber>025637846
+        </phonenumber>
+      </relative>
+    </family>
+  </person>
+</chabaddata>
